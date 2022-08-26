@@ -7,9 +7,5 @@
 It's a sudoku game. Also in this project you will find a java class in Test Packages with name SudokuPuzzleTest.<br>
 I worked a usefull component which is called JUnit. You can download it and use it on your projects and its free.<br>
 Inside the project i will give you the jar file to make it easy to you to use it without download. </u></h4>
-<h4><u>Also I used SQLite Database</u></h4>
-<h4><u>The Username and Password is :</u></h4><br>
-<li><b>Username: </b> ss</li><br>
-<li><b>Password: </b>ss</li>
 </body>
 </html>
